@@ -1,1 +1,1 @@
-# CadastrodeProdutos
+Este repositório contém um sistema simples de gerenciamento de produtos desenvolvido em Python, utilizando o paradigma de Orientação a Objetos. O sistema permite ao usuário realizar as seguintes operações: Incluir um novo produto na lista, consultar um produto pelo código, alterar um produto pelo código, excluir um produto pelo código e listar todos os produtos cadastrados.
